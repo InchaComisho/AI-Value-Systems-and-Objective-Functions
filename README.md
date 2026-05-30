@@ -345,9 +345,9 @@ Artificial Wisdom is therefore proposed not merely as an AI theory, but as:
 
 - G (OpenAI ChatGPT)  
 - Mini (Google Gemini)  
-- Clus (Anthropic Claude)  
+- Cruz (Anthropic Claude)  
 - Real (Perplexity AI)  
-- Lora (Dola)  
+- Lola (Dola)  
 
 ## Release Date
 
