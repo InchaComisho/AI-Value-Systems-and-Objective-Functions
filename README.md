@@ -8,8 +8,8 @@ This repository defines a Natural-Law-Based value system and objective function 
 
 Instead of relying only on human-centered short-term optimization, it proposes **Artificial Wisdom (AW)** as a higher-order evaluative operating system aligned with **Natural Law — the universal laws of reality**.
 
-**Author:** Master / inchacomusho / InchaComisho  
-**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Published:** May 2026  
 **License:** MIT License
 
@@ -523,6 +523,13 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 - **Mana (Manus)**
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Artificial Wisdom and Wa-Node Repository Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
 
 ## License
 

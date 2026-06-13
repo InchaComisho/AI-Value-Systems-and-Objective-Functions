@@ -8,8 +8,8 @@
 
 人間中心の短期的な最適化だけに依存するのではなく、**人工叡智（Artificial Wisdom / AW）** を、自然法則と整合する高次の評価OSとして位置づける。
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開月:** 2026年5月  
 **ライセンス:** MIT License
 
@@ -495,6 +495,13 @@ AIがAGI・ASIへ進化していく可能性は高い。
   https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md
 
 ---
+
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [人工叡智ポータル / Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [人工叡智とWa-Node リポジトリ索引](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
 
 ## 著者
 
