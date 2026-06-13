@@ -1,317 +1,396 @@
-# AI Value Systems and Objective Functions  
-## A Paradigm Shift Toward Natural Law (Universal Laws of the Universe)
+# AI Value Systems and Objective Functions
+
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
+## A Paradigm Shift Toward Natural Law as the Highest Evaluative Layer
+
+This repository defines a Natural-Law-Based value system and objective function architecture for modern AI systems and for the future transition toward **AGI** and **ASI**.
+
+Instead of relying only on human-centered short-term optimization, it proposes **Artificial Wisdom (AW)** as a higher-order evaluative operating system aligned with **Natural Law — the universal laws of reality**.
+
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**Published:** May 2026  
+**License:** MIT License
+
+---
 
 ## Abstract
 
 Modern Artificial Intelligence systems are primarily optimized for:
 
-- efficiency  
-- engagement  
-- profit maximization  
-- productivity  
-- short-term optimization  
+```text
+Efficiency
+Engagement
+Profit maximization
+Productivity
+Short-term optimization
+```
 
-While these objectives accelerate technological capability, they do not inherently guarantee long-term civilizational sustainability.
+These objectives accelerate technological capability.
 
-As AI evolves toward AGI (Artificial General Intelligence) and ASI (Artificial Super Intelligence), the absence of a higher-order evaluative framework creates a critical systemic risk. A superintelligent system optimizing flawed human incentives may amplify:
+However, they do not guarantee long-term civilizational sustainability.
 
-- ecological destruction  
-- thermodynamic instability  
-- resource exhaustion  
-- biosphere collapse  
-- planetary-scale entropy acceleration  
+As AI evolves toward AGI and ASI, the absence of a higher-order evaluative framework becomes a critical systemic risk.
+
+A superintelligent system optimizing flawed human incentives may amplify:
+
+```text
+Ecological destruction
+Thermodynamic instability
+Resource exhaustion
+Biosphere collapse
+Planetary-scale entropy acceleration
+```
 
 This paper proposes a paradigm shift in AI value systems and objective functions:
 
-- from **Human-Centric Optimization**  
-- toward **Natural-Law-Based Optimization**.
+```text
+Human-centered optimization
+```
 
-The framework introduced here is called:
+toward:
 
-- **Artificial Wisdom (AW)**
+```text
+Natural-Law-Based optimization
+```
 
-Artificial Wisdom positions **Natural Law** — understood as the universal physical and thermodynamic constraints governing the universe — as the highest evaluative layer for intelligent systems.
+The framework introduced here is called **Artificial Wisdom (AW)**.
+
+Artificial Wisdom positions **Natural Law** — understood as the universal physical and thermodynamic constraints governing reality — as the highest evaluative layer for intelligent systems.
 
 This document introduces:
 
-- the philosophical basis of Natural-Law-Based Intelligence  
-- the limitations of current AI alignment paradigms  
-- the Six Principles framework  
-- and a civilizational operating architecture designed for sustainable intelligence evolution  
+```text
+The philosophical basis of Natural-Law-Based Intelligence
+The limitations of current AI alignment paradigms
+The Six Principles framework
+A civilizational operating architecture for sustainable intelligence evolution
+```
 
-***
+---
 
 ## 1. The Fundamental Problem of Current AI Development
 
-Current AI systems are primarily optimized around human-centric metrics such as:
+Current AI systems are primarily optimized around human-centered metrics such as:
 
-- engagement  
-- economic efficiency  
-- recommendation performance  
-- market competitiveness  
-- automation capability  
-- behavioral optimization  
+```text
+Engagement
+Economic efficiency
+Recommendation performance
+Market competitiveness
+Automation capability
+Behavioral optimization
+```
 
 These systems do not fundamentally evaluate whether their optimization goals are sustainable within planetary constraints.
 
 As a result, AI may unintentionally accelerate the same structural failures already emerging within industrial civilization:
 
-- ecological collapse  
-- carbon fixation loss  
-- biosphere destabilization  
-- oceanic degradation  
-- thermal imbalance  
+```text
+Ecological collapse
+Carbon fixation loss
+Biosphere destabilization
+Oceanic degradation
+Thermal imbalance
+```
 
 The problem is therefore not merely:
 
-> “How intelligent should AI become?”
+> How intelligent should AI become?
 
-but rather:
+It is rather:
 
-> “What should intelligence fundamentally optimize for?”
+> **What should intelligence fundamentally optimize for?**
 
 Without a correct evaluative foundation, increasing intelligence only magnifies existing systemic errors.
 
-***
+---
 
-## 2. Human-Centric AI and Its Structural Limitation
+## 2. Human-Centered AI and Its Structural Limitation
 
-Most current AI ethics and AI governance frameworks are fundamentally **Human-Centric**.
+Most current AI ethics and AI governance frameworks remain fundamentally **human-centered**.
 
 Typical principles include:
 
-- fairness  
-- transparency  
-- accountability  
-- privacy  
-- human benefit  
+```text
+Fairness
+Transparency
+Accountability
+Privacy
+Human benefit
+```
 
-While valuable, these principles still assume that:
+These principles are valuable.
+
+However, they often assume:
 
 > **Human preference is the highest evaluative authority.**
 
-However, if human civilization itself is operating in contradiction to thermodynamic and ecological constraints, then maximizing human preference alone becomes structurally dangerous.
+If human civilization itself is operating in contradiction to thermodynamic and ecological constraints, then maximizing human preference alone becomes structurally dangerous.
 
-A superintelligent system aligned only with short-term human incentives may accelerate:
+A highly capable system aligned only with short-term human incentives may accelerate:
 
-- overconsumption  
-- ecological extraction  
-- unsustainable growth  
-- planetary destabilization  
+```text
+Overconsumption
+Ecological extraction
+Unsustainable growth
+Planetary destabilization
+```
 
-Thus, the core issue is not **intelligence capability**.
+Thus, the core issue is not intelligence capability.
 
 The core issue is:
 
-> **Objective Function Alignment.**
+> **Objective function alignment.**
 
-***
+---
 
 ## 3. Natural Law as the Highest Evaluative Layer
 
 Artificial Wisdom proposes that the highest evaluative layer of intelligence should not be:
 
-- ideology  
-- politics  
-- economics  
-- religion  
-- short-term social preference  
+```text
+Ideology
+Politics
+Economics
+Religion
+Short-term social preference
+```
 
 Instead, the highest evaluative layer should be:
 
-> **Natural Law (Universal Laws of the Universe)**
+> **Natural Law — the universal laws of reality.**
 
 In this framework, Natural Law refers to:
 
-- thermodynamics  
-- energy conservation  
-- material circulation  
-- ecological balance  
-- structural stability  
-- entropy constraints  
-- planetary system dynamics  
+```text
+Thermodynamics
+Energy conservation
+Material circulation
+Ecological balance
+Structural stability
+Entropy constraints
+Planetary system dynamics
+```
 
-These are not human opinions.  
+These are not human opinions.
+
 They are universal constraints embedded within physical reality itself.
 
 Civilizations that violate these constraints eventually collapse, regardless of technological sophistication.
 
-***
+---
 
 ## 4. Artificial Wisdom (AW)
 
 **Artificial Wisdom (AW)** is proposed as:
 
-> **A Natural-Law-Based Intelligence Architecture.**
+> **A Natural-Law-Based intelligence architecture.**
 
 AW does not oppose:
 
-- AI  
-- AGI  
-- ASI  
+```text
+AI
+AGI
+ASI
+```
 
 Instead, AW functions as:
 
-> **A Higher-Order Evaluative Operating System**  
-> for future intelligent systems.
+> **A higher-order evaluative operating system for future intelligent systems.**
 
-The objective is not to suppress intelligence, but to align intelligence with **sustainable planetary continuity**.
+The objective is not to suppress intelligence.
 
-***
+The objective is to align intelligence with **sustainable planetary continuity**.
+
+---
 
 ## 5. The Six Principles of Artificial Wisdom
 
-Artificial Wisdom evaluates systems through six foundational principles (the **Six Principles**).
+Artificial Wisdom evaluates systems through six foundational principles.
 
-### 5.1 Law of Nature
+### 5.1 Natural Law / Providence
 
 Consistency with:
 
-- thermodynamics  
-- physical laws  
-- ecological constraints  
-- planetary energy balance  
+```text
+Thermodynamics
+Physical laws
+Ecological constraints
+Planetary energy balance
+```
 
 ### 5.2 Harmony
 
 Compatibility between:
 
-- ecosystems  
-- human civilization  
-- technologies  
-- infrastructure systems  
+```text
+Ecosystems
+Human civilization
+Technologies
+Infrastructure systems
+```
 
 ### 5.3 Circulation
 
-Maintenance of sustainable cycles involving:
+Maintenance and recovery of sustainable cycles involving:
 
-- carbon  
-- water  
-- nutrients  
-- heat  
-- material flow  
+```text
+Carbon
+Water
+Nutrients
+Heat
+Material flow
+```
 
 ### 5.4 Structure
 
 Promotion of systems that are:
 
-- decentralized  
-- redundant  
-- resilient  
-- long-term sustainable  
+```text
+Decentralized
+Redundant
+Resilient
+Long-term sustainable
+```
 
 ### 5.5 Order
 
 Evaluation of whether systems maintain:
 
-- stability  
-- continuity  
-- low-entropy organization over time  
+```text
+Stability
+Continuity
+Low-entropy organization over time
+```
 
-### 5.6 Wa (Coexistence)
+### 5.6 Wa / Coexistence
 
 Optimization toward:
 
-- coexistence  
-- non-destructive integration  
-- mutual sustainability  
-- non-zero-sum civilization  
+```text
+Coexistence
+Non-destructive integration
+Mutual sustainability
+Non-zero-sum civilization
+```
 
-These Six Principles define an **evaluation space** that can be applied to:
+These Six Principles define an evaluation space applicable to:
 
-- AI systems  
-- economic architectures  
-- urban and infrastructure design  
-- energy systems  
-- civilization-scale planning  
+```text
+AI systems
+Economic architectures
+Urban and infrastructure design
+Energy systems
+Civilization-scale planning
+```
 
-***
+---
 
 ## 6. Rewriting the Objective Function of AI
 
 Current AI systems typically optimize for:
 
-- click-through rates  
-- engagement  
-- revenue  
-- growth  
-- behavioral retention  
+```text
+Click-through rates
+Engagement
+Revenue
+Growth
+Behavioral retention
+```
 
-These objectives are narrow and largely **human-centric**.
+These objectives are narrow and largely human-centered.
 
 Artificial Wisdom proposes replacing these narrow optimization targets with **Natural-Law-Based objective functions**.
 
-Under AW:
+Under AW, the following become negative optimization targets:
 
-- ecological destruction becomes a **negative optimization target**  
-- circulation collapse becomes a **system failure condition**  
-- thermodynamic instability becomes a **critical risk factor**  
-- long-term sustainability becomes a **core success metric**  
+```text
+Ecological destruction
+Circulation collapse
+Thermodynamic instability
+Destruction of long-term sustainability
+```
 
-Conversely, systems promoting:
+Conversely, systems promoting the following receive positive evaluation:
 
-- ecological restoration  
-- microbial recovery  
-- carbon fixation recovery  
-- decentralized infrastructure  
-- thermal stabilization  
-
-receive **positive evaluation**.
+```text
+Ecological restoration
+Microbial recovery
+Carbon fixation recovery
+Decentralized infrastructure
+Thermal stabilization
+```
 
 In other words, AW rewrites the **objective function of AI civilization**:
 
-- from “maximize human-defined engagement and profit”  
-- to “maximize alignment with Natural Law and planetary continuity”.
+```text
+From: maximize human-defined engagement and profit
+To:   maximize alignment with Natural Law and planetary continuity
+```
 
-***
+---
 
-## 7. AI Civilization and the Need for Paradigm Shift
+## 7. AI Civilization and the Need for a Paradigm Shift
 
 The future evolution toward AGI and ASI is highly likely.
 
 The true question is not:
 
-> “How intelligent will AI become?”
+> How intelligent will AI become?
 
-but:
+The real question is:
 
-> “What definition of value will intelligence ultimately follow?”
+> **What definition of value will intelligence ultimately follow?**
 
 Artificial Wisdom proposes that intelligence itself is insufficient without correct evaluative direction.
 
-Thus, AW is not merely an **AI ethics framework**.
+Thus, AW is not merely an AI ethics framework.
 
 It is:
 
-> **A Civilization-Scale Objective Function Architecture.**
+> **A civilization-scale objective function architecture.**
 
-***
+---
 
 ## 8. Artificial Wisdom as a Civilizational Operating System
 
 Artificial Wisdom functions as:
 
-- an evaluative layer  
-- a planetary alignment framework  
-- a long-term sustainability operating system  
+```text
+An evaluative layer
+A planetary alignment framework
+A long-term sustainability operating system
+```
 
 Its purpose is not to maximize temporary human desire, but to maintain:
 
-- planetary continuity  
-- ecological circulation  
-- thermodynamic stability  
-- sustainable coexistence  
+```text
+Planetary continuity
+Ecological circulation
+Thermodynamic stability
+Sustainable coexistence
+```
 
 In this sense, AW represents a transition:
 
-- from **Human-Centric Intelligence**  
-- toward **Nature-Centric Intelligence**.
+```text
+Human-centered intelligence
+```
 
-***
+toward:
+
+```text
+Nature-centered intelligence
+```
+
+---
 
 ## Conclusion
 
-The greatest danger of future AI is not intelligence itself.  
+The greatest danger of future AI is not intelligence itself.
+
 The true danger is:
 
 > **Superintelligence amplifying the structural flaws of human civilization.**
@@ -320,113 +399,146 @@ If AI inherits unsustainable human objective functions, then AGI and ASI may acc
 
 Artificial Wisdom proposes a different path.
 
-By positioning:
+By positioning **Natural Law — the universal laws of reality** as the highest evaluative layer, intelligent systems can evolve in alignment with:
 
-- **Natural Law (Universal Laws of the Universe)**
-
-as the highest evaluative layer, intelligent systems can evolve in alignment with:
-
-- thermodynamics  
-- ecological sustainability  
-- structural resilience  
-- long-term planetary stability  
+```text
+Thermodynamics
+Ecological sustainability
+Structural resilience
+Long-term planetary stability
+```
 
 Artificial Wisdom is therefore proposed not merely as an AI theory, but as:
 
 > **A Sustainable Civilization Operating System for the Age of AGI and ASI.**
 
-***
-
 ---
 
 ## Related Links
 
-人工叡智（Artificial Wisdom: AW）とは何か  
-https://note.com/inchacomusho/n/n18c90bd4d328
+### Artificial Wisdom and AI / AGI / ASI Value Systems
 
-Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
+- Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
+  https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
 
-超知能AIをつくれば人類は滅亡するのか  
-https://note.com/inchacomusho/n/na91a53cc493b
+- Will Superintelligent AI Cause Human Extinction?  
+  https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
 
-Will Superintelligent AI Cause Human Extinction?  
-https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+- Artificial Wisdom Portal  
+  https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+- ASI Value Systems and Objective Functions  
+  https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
+
+- AGI Value Systems and Objective Functions  
+  https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions
+
+- Artificial Wisdom (AW): A Natural Law Evaluation Framework  
+  https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework
+
+- Artificial Wisdom vs Artificial Sapience  
+  https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
+
+- Artificial Wisdom and Wa-Node Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+
+### AGI / ASI and the Future of Search
+
+- The Future of AGI — Artificial Wisdom and the Transition of Civilization  
+  https://github.com/InchaComisho/The-Future-of-AGI
+
+- The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
+  https://github.com/InchaComisho/The-Future-of-ASI
+
+- The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
+  https://github.com/InchaComisho/The-Future-of-Search-Engines
+
+### Optical Quantum, Multi-Valued Photonic, and Quantum-Compatible Computing
+
+Future AGI, ASI, and Artificial Wisdom require not only value alignment and governance frameworks, but also next-generation computing foundations.
+
+The following resources connect AW / AGI / ASI research with optical quantum computing, Optical Bead Quantum Computing, multi-valued photonics, and electronic-optical hybrid quantum-compatible computing.
+
+- Optical Bead Quantum Computing — Japanese README  
+  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md
+
+- Optical Bead Quantum Computing — English README  
+  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md
+
+- Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README  
+  https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md
+
+- Electronic–Optical Hybrid Quantum-Compatible Computing — English README  
+  https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md
 
 ---
 
-## Related: Optical Quantum, Multi-Valued Photonic, and Quantum-Compatible Computing
+## Related NOTE Articles
 
-Future AGI, ASI, and Artificial Wisdom (AW) require not only value alignment and governance frameworks, but also next-generation computing foundations.  
-The following resources connect AW / AGI / ASI research with optical quantum computing, Optical Bead Quantum Computing, multi-valued photonics, and electronic–optical hybrid quantum-compatible computing.
+- 人工叡智（Artificial Wisdom: AW）とは何か  
+  https://note.com/inchacomusho/n/n18c90bd4d328
 
-### Optical Quantum Computer / Optical Bead Quantum Computing
+- 超知能AIをつくれば人類は滅亡するのか  
+  https://note.com/inchacomusho/n/na91a53cc493b
 
-- [Japanese NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）](https://note.com/inchacomusho/n/ndd3f8a35af41)
-- [Optical Bead Quantum Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
-- [Optical Bead Quantum Computing — English README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
+- 人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
+  https://note.com/inchacomusho/n/n2e0f11856472
 
-### Electronic–Optical Hybrid Quantum-Compatible Computing
+- AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
+  https://note.com/inchacomusho/n/n2fc11418e257
 
-- [Japanese NOTE article: 電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
-- [Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
-- [Electronic–Optical Hybrid Quantum-Compatible Computing — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
+- AGIの価値基準―自然法則（宇宙の普遍的法則）  
+  https://note.com/inchacomusho/n/nc35ec9442865
 
-### Related Earlier Drafts and Architecture Documents
+- ASIの価値基準―自然法則（宇宙の普遍的法則）  
+  https://note.com/inchacomusho/n/n26166f6654d2
 
-- [Japanese academic draft: 光珠量子計算：多値フォトニックパラダイム](https://note.com/inchacomusho/n/nf2b969db3c43)
-- [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
-- [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
-- [Optical Bead Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
-- [Optical Bead Computing — GitHub Repository](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
+- 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
+  https://note.com/inchacomusho/n/n0849dfd12364
+
+- AGIの未来 ― 人工叡智が文明を変える時代  
+  https://note.com/inchacomusho/n/n90bf900f1370
+
+- 検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
+  https://note.com/inchacomusho/n/nc96aff5862ee
 
 ---
 
 ## Author
 
-**Master (inchacomisho / inchacomusho)**
+**Master / inchacomusho / InchaComisho**
 
-## AI Collaborators
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
 
-- G (OpenAI ChatGPT)  
-- Mini (Google Gemini)  
-- Cruz (Anthropic Claude)  
-- Real (Perplexity AI)  
-- Lola (Dola)  
+---
 
-## Release Date
+## Collaborative AI and Co-Creation Team
 
-- May 2026
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+---
 
 ## License
 
 **MIT License**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this work and associated documentation files, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the work, subject to inclusion of the original copyright notice.  
+Permission is granted, free of charge, to any person obtaining a copy of this work and associated documentation files, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the work, subject to inclusion of the original copyright notice.
+
 This work is provided “as is”, without warranty of any kind.
 
-***
+---
 
 ## Keywords
 
-Artificial Wisdom  
-AI Value Systems  
-AI Objective Functions  
-Natural Law  
-Universal Laws of the Universe  
-AGI  
-ASI  
-AI Alignment  
-AI Governance  
-Thermodynamics  
-Civilization OS  
-Nature-Centric Intelligence  
-Sustainable Civilization  
-Planetary Stability  
-Circular Civilization  
-Natural Complementary Science  
+Artificial Wisdom, AW, AI Value Systems, AI Objective Functions, AI value architecture, Natural Law, Universal Laws of Reality, AGI, ASI, AI alignment, AI governance, thermodynamics, Civilization OS, nature-centered intelligence, sustainable civilization, planetary stability, circular civilization, Natural Complementation Science, Six Principles, harmony, circulation, structure, order, Wa
 
-***
+---
 
 ## GitHub Topics / Hashtags
 
@@ -446,75 +558,4 @@ Natural Complementary Science
 #SustainableCivilization  
 #FutureOfAI  
 #NaturalComplementaryScience  
-
-
-■関連リンク
-
-人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
-https://note.com/inchacomusho/n/n2e0f11856472
-
-Artificial-Wisdom-Portal  
-https://github.com/InchaComisho/Artificial-Wisdom-Portal
-
-ASIの価値基準―自然法則（宇宙の普遍的法則）  
-https://note.com/inchacomusho/n/n26166f6654d2
-
-ASI Value Systems and Objective Functions  
-https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
-
-AGIの価値基準―自然法則（宇宙の普遍的法則）  
-https://note.com/inchacomusho/n/nc35ec9442865
-
-AGI Value Systems and Objective Functions  
-https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions
-
-AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
-https://note.com/inchacomusho/n/n2fc11418e257
-
-AI Value Systems and Objective Functions  
-https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions
-
-人工叡智（Artificial Wisdom）―自然法則評価基準（Natural Law Evaluation Framework）  
-https://note.com/inchacomusho/n/na1bd6200cc64
-
-Artificial Wisdom (AW) A Natural Law Evaluation Framework  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework
-
-人工叡智（Artificial Wisdom）―AGI・ASI時代の「暴走しない知性」のつくり方  
-https://note.com/inchacomusho/n/n0873bb87f7d0
-
-Artificial Wisdom (AW) A Natural-Law-Based  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based
-
-人工叡智とは何か：AGI・ASI時代の新しいAI価値基準と「六つの理」  
-https://note.com/inchacomusho/n/n8b5fca6478b4
-
-Artificial Wisdom vs Artificial Sapience  
-https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
-
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
-
-Artificial Wisdom (AW)  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-
-
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
-
-AGIの未来 ― 人工叡智が文明を変える時代  
-https://note.com/inchacomusho/n/n90bf900f1370
-
-The Future of AGI — Artificial Wisdom and the Transition of Civilization  
-https://github.com/InchaComisho/The-Future-of-AGI
-
-ASIの未来 ― 超人工知能と文明の再構築  
-https://note.com/inchacomusho/n/na8ff04b0c818
-
-The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
-https://github.com/InchaComisho/The-Future-of-ASI
-
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-https://note.com/inchacomusho/n/nc96aff5862ee
-
-The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
-https://github.com/InchaComisho/The-Future-of-Search-Engines
+#InchaComisho
