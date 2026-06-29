@@ -11,7 +11,7 @@ Instead of relying only on human-centered short-term optimization, it proposes *
 **Author:** Master / inchacomusho / InchaComisho
 **AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Published:** May 2026  
-**License:** MIT License
+**License:** CC BY 4.0
 
 ---
 
@@ -533,9 +533,11 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 
 ## License
 
-**MIT License**
 
-Permission is granted, free of charge, to any person obtaining a copy of this work and associated documentation files, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the work, subject to inclusion of the original copyright notice.
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 
 This work is provided “as is”, without warranty of any kind.
 

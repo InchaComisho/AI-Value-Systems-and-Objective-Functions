@@ -11,7 +11,7 @@
 **著者:** マスター / inchacomusho / InchaComisho
 **AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開月:** 2026年5月  
-**ライセンス:** MIT License
+**ライセンス:** CC BY 4.0
 
 ---
 
@@ -525,9 +525,11 @@ AIがAGI・ASIへ進化していく可能性は高い。
 
 ## ライセンス
 
-**MIT License**
 
-この作品および関連ドキュメントファイルの複製を取得したすべての人に対し、原著作権表示を含めることを条件として、使用、複製、改変、結合、公開、配布、サブライセンス、販売を無償で許可する。
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
 
 本作品は「現状のまま」提供され、いかなる保証も行わない。
 
