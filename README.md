@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Paradigm Shift Toward Natural Law as the Highest Evaluative Layer
 
 This repository defines a Natural-Law-Based value system and objective function architecture for modern AI systems and for the future transition toward **AGI** and **ASI**.

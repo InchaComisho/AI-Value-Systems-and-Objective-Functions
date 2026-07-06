@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 自然法則（宇宙の普遍的法則）へ向かうパラダイムシフト
 
 このリポジトリは、現代AIからAGI・ASIへ向かう未来の知性システムに対して、自然法則に基づく価値体系と目的関数アーキテクチャを定義する。
