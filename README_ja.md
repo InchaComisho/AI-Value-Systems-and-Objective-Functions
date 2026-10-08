@@ -432,13 +432,11 @@ AIがAGI・ASIへ進化していく可能性は高い。
 ### 人工叡智・AI / AGI / ASI価値体系
 
 - 人工叡智（Artificial Wisdom: AW）とは何か  
-  https://note.com/inchacomusho/n/n18c90bd4d328
 
 - Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
   https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
 
 - 超知能AIをつくれば人類は滅亡するのか  
-  https://note.com/inchacomusho/n/na91a53cc493b
 
 - Will Superintelligent AI Cause Human Extinction?  
   https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
@@ -479,7 +477,6 @@ AIがAGI・ASIへ進化していく可能性は高い。
 以下は、AW / AGI / ASI研究を、光量子コンピュータ、光珠量子計算、多値フォトニクス、電子・光ハイブリッド量子互換計算と接続する関連資料である。
 
 - 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）  
-  https://note.com/inchacomusho/n/ndd3f8a35af41
 
 - Optical Bead Quantum Computing — Japanese README  
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md
@@ -488,7 +485,6 @@ AIがAGI・ASIへ進化していく可能性は高い。
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md
 
 - 電子・光ハイブリッド量子互換コンピューティング  
-  https://note.com/inchacomusho/n/n110ab05dca7e
 
 - Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README  
   https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md

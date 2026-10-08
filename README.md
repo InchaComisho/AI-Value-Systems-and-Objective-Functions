@@ -478,31 +478,22 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 ## Related NOTE Articles
 
 - 人工叡智（Artificial Wisdom: AW）とは何か  
-  https://note.com/inchacomusho/n/n18c90bd4d328
 
 - 超知能AIをつくれば人類は滅亡するのか  
-  https://note.com/inchacomusho/n/na91a53cc493b
 
 - 人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
-  https://note.com/inchacomusho/n/n2e0f11856472
 
 - AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
-  https://note.com/inchacomusho/n/n2fc11418e257
 
 - AGIの価値基準―自然法則（宇宙の普遍的法則）  
-  https://note.com/inchacomusho/n/nc35ec9442865
 
 - ASIの価値基準―自然法則（宇宙の普遍的法則）  
-  https://note.com/inchacomusho/n/n26166f6654d2
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - AGIの未来 ― 人工叡智が文明を変える時代  
-  https://note.com/inchacomusho/n/n90bf900f1370
 
 - 検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-  https://note.com/inchacomusho/n/nc96aff5862ee
 
 ---
 
